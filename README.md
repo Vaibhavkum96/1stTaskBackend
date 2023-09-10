@@ -1,7 +1,4 @@
 # 1stTaskBackend
-Here is the Question : 
-Create a basic Node.js API using the Express framework. The API should include 
-the following routes: GET /users POST /users GET /users/{id} PUT /users/{id} DELETE /users/{id} The API should also include basic authentication and authorization. 
 
 I have written all the API using standard practices, For authentication and authorization, we have use JWT WeB Token modules.
 For Authentication: I have create a Register and Login Module to handle this task. 
